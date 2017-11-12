@@ -1,7 +1,6 @@
 # ================================================
-# Skeleton codes for HW4
-# Read the skeleton codes carefully and put all your
-# codes into main function
+# Program to extract foreground from a image 
+# using interactive window
 # ================================================
 
 import cv2
